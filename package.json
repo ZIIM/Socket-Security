@@ -8,7 +8,7 @@
     "start": "node ./server/hub.js"
   },
   "keywords": [],
-  "author": "Isai Chaidez & John T. Gause",
+  "author": "John T. Gause & Isai Chaidez",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
