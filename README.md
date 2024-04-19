@@ -10,7 +10,7 @@ Editor (not mandatory).
 
 ### Install
 
-    git clone git@github.com:Arvoya/socket-security.git
+    git clone git@github.com/ZIIM/Socket-Security.git
     cd PROJECT
     npm install
 
