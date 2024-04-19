@@ -1,6 +1,6 @@
 # Socket Secuirty
 
-## Getting Started
+## 🛠️ Getting Started
 
 ### Requirements
 
@@ -21,7 +21,7 @@ Editor (not mandatory).
     node ./clients/hackerMan
     node ./clients/QFC/departments/HR/
 
-## Architecture
+## 🏗️ Architecture
 
 ![whiteboard](./whiteboard/whiteboard.png)
 
@@ -67,12 +67,12 @@ Editor (not mandatory).
 * socket.io
 * socket.io-client
 
-## Change Log
+## 🔄 Change Log
 
 0.0.1 2024-04-18
 
-## Collaborators
+## 🤝 Credit and Collaborations
 
-John T. Gause
+[Isai Chaidez](https://github.com/Arvoya)
 
 GitHub Copilot - Helped with writing tests
